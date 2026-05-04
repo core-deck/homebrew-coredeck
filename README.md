@@ -39,4 +39,4 @@ The cask is bumped manually for each [release](https://github.com/core-deck/core
 
 ## License
 
-The cask file itself is BSD-2-Clause, matching Homebrew's tap convention. The CoreDeck app it points at is GPL-3.0-or-later.
+The cask file is MIT (see [LICENSE](LICENSE)). The CoreDeck app it points at is GPL-3.0-or-later.
